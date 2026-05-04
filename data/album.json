@@ -1,0 +1,637 @@
+{
+  "trip": {
+    "id": "eo-20260501",
+    "title": "어청도 탐조 여행",
+    "date": "2026.05.01 - 2026.05.03",
+    "location": "어청도",
+    "coverPhoto": "KakaoTalk_20260502_111036880_07.jpg"
+  },
+  "birds": [
+    {
+      "id": "bird001",
+      "name": "가마우지",
+      "photos": [
+        "001_gamauji.JPG"
+      ]
+    },
+    {
+      "id": "bird016",
+      "name": "노랑눈썹멧새",
+      "photos": [
+        "016_norang_nunsseop_metsae.JPG"
+      ]
+    },
+    {
+      "id": "bird017",
+      "name": "노랑눈썹솔새",
+      "photos": [
+        "017_norang_nunsseop_solsae.JPG"
+      ]
+    },
+    {
+      "id": "bird028",
+      "name": "되지빠귀",
+      "photos": [
+        "028_doejippagwi.JPG"
+      ]
+    },
+    {
+      "id": "bird030",
+      "name": "때까치",
+      "photos": [
+        "030_ttaekkachi.JPG"
+      ]
+    },
+    {
+      "id": "bird036",
+      "name": "민물가마우지",
+      "photos": [
+        "036_minmul_gamauji.JPG"
+      ]
+    },
+    {
+      "id": "bird052",
+      "name": "쇠붉은뺨멧새",
+      "photos": [
+        "052_soe_bulgeun_ppyam_metsae.JPG"
+      ]
+    },
+    {
+      "id": "bird059",
+      "name": "유리딱새",
+      "photos": [
+        "059_yuri_ttaksae.JPG"
+      ]
+    },
+    {
+      "id": "bird065",
+      "name": "중백로",
+      "photos": [
+        "065_jungbaengno.JPG"
+      ]
+    },
+    {
+      "id": "bird071",
+      "name": "촉새",
+      "photos": [
+        "071_choksae.JPG"
+      ]
+    },
+    {
+      "id": "bird078",
+      "name": "해오라기",
+      "photos": [
+        "078_haeoragi.JPG"
+      ]
+    },
+    {
+      "id": "bird079",
+      "name": "황금새",
+      "photos": [
+        "079_hwanggeumsae.JPG"
+      ]
+    }
+  ],  "tripPhotos": [
+    {
+      "id": "trip001",
+      "photo": "KakaoTalk_20260501_072431704.jpg",
+      "caption": "Trip photo 1"
+    },
+    {
+      "id": "trip002",
+      "photo": "KakaoTalk_20260501_072431704_01.jpg",
+      "caption": "Trip photo 2"
+    },
+    {
+      "id": "trip003",
+      "photo": "KakaoTalk_20260501_072431704_02.jpg",
+      "caption": "Trip photo 3"
+    },
+    {
+      "id": "trip004",
+      "photo": "KakaoTalk_20260501_072441174.jpg",
+      "caption": "Trip photo 4"
+    },
+    {
+      "id": "trip005",
+      "photo": "KakaoTalk_20260501_072441174_01.jpg",
+      "caption": "Trip photo 5"
+    },
+    {
+      "id": "trip006",
+      "photo": "KakaoTalk_20260501_072450574.jpg",
+      "caption": "Trip photo 6"
+    },
+    {
+      "id": "trip007",
+      "photo": "KakaoTalk_20260501_072450574_01.jpg",
+      "caption": "Trip photo 7"
+    },
+    {
+      "id": "trip008",
+      "photo": "KakaoTalk_20260501_072450574_02.jpg",
+      "caption": "Trip photo 8"
+    },
+    {
+      "id": "trip009",
+      "photo": "KakaoTalk_20260501_105612770.jpg",
+      "caption": "Trip photo 9"
+    },
+    {
+      "id": "trip010",
+      "photo": "KakaoTalk_20260501_112701917.jpg",
+      "caption": "Trip photo 10"
+    },
+    {
+      "id": "trip011",
+      "photo": "KakaoTalk_20260501_121838650.jpg",
+      "caption": "Trip photo 11"
+    },
+    {
+      "id": "trip012",
+      "photo": "KakaoTalk_20260501_172256521.jpg",
+      "caption": "Trip photo 12"
+    },
+    {
+      "id": "trip013",
+      "photo": "KakaoTalk_20260501_172256521_01.jpg",
+      "caption": "Trip photo 13"
+    },
+    {
+      "id": "trip014",
+      "photo": "KakaoTalk_20260501_172256521_02.jpg",
+      "caption": "Trip photo 14"
+    },
+    {
+      "id": "trip015",
+      "photo": "KakaoTalk_20260501_172256521_03.jpg",
+      "caption": "Trip photo 15"
+    },
+    {
+      "id": "trip016",
+      "photo": "KakaoTalk_20260501_172256521_04.jpg",
+      "caption": "Trip photo 16"
+    },
+    {
+      "id": "trip017",
+      "photo": "KakaoTalk_20260501_172256521_05.jpg",
+      "caption": "Trip photo 17"
+    },
+    {
+      "id": "trip018",
+      "photo": "KakaoTalk_20260501_185258386.jpg",
+      "caption": "Trip photo 18"
+    },
+    {
+      "id": "trip019",
+      "photo": "KakaoTalk_20260501_185258386_01.jpg",
+      "caption": "Trip photo 19"
+    },
+    {
+      "id": "trip020",
+      "photo": "KakaoTalk_20260501_185301038.jpg",
+      "caption": "Trip photo 20"
+    },
+    {
+      "id": "trip021",
+      "photo": "KakaoTalk_20260501_185311993.jpg",
+      "caption": "Trip photo 21"
+    },
+    {
+      "id": "trip022",
+      "photo": "KakaoTalk_20260501_185311993_01.jpg",
+      "caption": "Trip photo 22"
+    },
+    {
+      "id": "trip023",
+      "photo": "KakaoTalk_20260501_191803289.jpg",
+      "caption": "Trip photo 23"
+    },
+    {
+      "id": "trip024",
+      "photo": "KakaoTalk_20260501_191803289_01.jpg",
+      "caption": "Trip photo 24"
+    },
+    {
+      "id": "trip025",
+      "photo": "KakaoTalk_20260501_191803289_02.jpg",
+      "caption": "Trip photo 25"
+    },
+    {
+      "id": "trip026",
+      "photo": "KakaoTalk_20260501_191803289_03.jpg",
+      "caption": "Trip photo 26"
+    },
+    {
+      "id": "trip027",
+      "photo": "KakaoTalk_20260501_191803289_04.jpg",
+      "caption": "Trip photo 27"
+    },
+    {
+      "id": "trip028",
+      "photo": "KakaoTalk_20260501_191952778.jpg",
+      "caption": "Trip photo 28"
+    },
+    {
+      "id": "trip029",
+      "photo": "KakaoTalk_20260502_094739730.jpg",
+      "caption": "Trip photo 29"
+    },
+    {
+      "id": "trip030",
+      "photo": "KakaoTalk_20260502_101524296.jpg",
+      "caption": "Trip photo 30"
+    },
+    {
+      "id": "trip031",
+      "photo": "KakaoTalk_20260502_101524296_01.jpg",
+      "caption": "Trip photo 31"
+    },
+    {
+      "id": "trip032",
+      "photo": "KakaoTalk_20260502_101524296_02.jpg",
+      "caption": "Trip photo 32"
+    },
+    {
+      "id": "trip033",
+      "photo": "KakaoTalk_20260502_101524296_03.jpg",
+      "caption": "Trip photo 33"
+    },
+    {
+      "id": "trip034",
+      "photo": "KakaoTalk_20260502_101524296_04.jpg",
+      "caption": "Trip photo 34"
+    },
+    {
+      "id": "trip035",
+      "photo": "KakaoTalk_20260502_104014174.jpg",
+      "caption": "Trip photo 35"
+    },
+    {
+      "id": "trip036",
+      "photo": "KakaoTalk_20260502_104014174_01.jpg",
+      "caption": "Trip photo 36"
+    },
+    {
+      "id": "trip037",
+      "photo": "KakaoTalk_20260502_104014174_02.jpg",
+      "caption": "Trip photo 37"
+    },
+    {
+      "id": "trip038",
+      "photo": "KakaoTalk_20260502_111036880.jpg",
+      "caption": "Trip photo 38"
+    },
+    {
+      "id": "trip039",
+      "photo": "KakaoTalk_20260502_111036880_01.jpg",
+      "caption": "Trip photo 39"
+    },
+    {
+      "id": "trip040",
+      "photo": "KakaoTalk_20260502_111036880_02.jpg",
+      "caption": "Trip photo 40"
+    },
+    {
+      "id": "trip041",
+      "photo": "KakaoTalk_20260502_111036880_03.jpg",
+      "caption": "Trip photo 41"
+    },
+    {
+      "id": "trip042",
+      "photo": "KakaoTalk_20260502_111036880_04.jpg",
+      "caption": "Trip photo 42"
+    },
+    {
+      "id": "trip043",
+      "photo": "KakaoTalk_20260502_111036880_05.jpg",
+      "caption": "Trip photo 43"
+    },
+    {
+      "id": "trip044",
+      "photo": "KakaoTalk_20260502_111036880_06.jpg",
+      "caption": "Trip photo 44"
+    },
+    {
+      "id": "trip045",
+      "photo": "KakaoTalk_20260502_111036880_07.jpg",
+      "caption": "Trip photo 45"
+    },
+    {
+      "id": "trip046",
+      "photo": "KakaoTalk_20260502_111336967.jpg",
+      "caption": "Trip photo 46"
+    },
+    {
+      "id": "trip047",
+      "photo": "KakaoTalk_20260502_111336967_01.jpg",
+      "caption": "Trip photo 47"
+    },
+    {
+      "id": "trip048",
+      "photo": "KakaoTalk_20260502_111336967_02.jpg",
+      "caption": "Trip photo 48"
+    },
+    {
+      "id": "trip049",
+      "photo": "KakaoTalk_20260502_113526340.jpg",
+      "caption": "Trip photo 49"
+    },
+    {
+      "id": "trip050",
+      "photo": "KakaoTalk_20260502_164606198.jpg",
+      "caption": "Trip photo 50"
+    },
+    {
+      "id": "trip051",
+      "photo": "KakaoTalk_20260502_164606198_01.jpg",
+      "caption": "Trip photo 51"
+    },
+    {
+      "id": "trip052",
+      "photo": "KakaoTalk_20260502_164606198_02.jpg",
+      "caption": "Trip photo 52"
+    },
+    {
+      "id": "trip053",
+      "photo": "KakaoTalk_20260502_164606198_03.jpg",
+      "caption": "Trip photo 53"
+    },
+    {
+      "id": "trip054",
+      "photo": "KakaoTalk_20260502_170240025.jpg",
+      "caption": "Trip photo 54"
+    },
+    {
+      "id": "trip055",
+      "photo": "KakaoTalk_20260502_225012089.jpg",
+      "caption": "Trip photo 55"
+    },
+    {
+      "id": "trip056",
+      "photo": "KakaoTalk_20260502_225012089_01.jpg",
+      "caption": "Trip photo 56"
+    },
+    {
+      "id": "trip057",
+      "photo": "KakaoTalk_20260503_072910273.jpg",
+      "caption": "Trip photo 57"
+    },
+    {
+      "id": "trip058",
+      "photo": "KakaoTalk_20260503_141844867.jpg",
+      "caption": "Trip photo 58"
+    },
+    {
+      "id": "trip059",
+      "photo": "KakaoTalk_20260503_141844867_01.jpg",
+      "caption": "Trip photo 59"
+    },
+    {
+      "id": "trip060",
+      "photo": "KakaoTalk_20260503_151839377.jpg",
+      "caption": "Trip photo 60"
+    },
+    {
+      "id": "trip061",
+      "photo": "KakaoTalk_20260503_200112688.jpg",
+      "caption": "Trip photo 61"
+    },
+    {
+      "id": "trip062",
+      "photo": "KakaoTalk_20260503_200132196.jpg",
+      "caption": "Trip photo 62"
+    },
+    {
+      "id": "trip063",
+      "photo": "KakaoTalk_20260503_200132196_01.jpg",
+      "caption": "Trip photo 63"
+    },
+    {
+      "id": "trip064",
+      "photo": "KakaoTalk_20260503_200132196_02.jpg",
+      "caption": "Trip photo 64"
+    },
+    {
+      "id": "trip065",
+      "photo": "KakaoTalk_20260503_200132196_03.jpg",
+      "caption": "Trip photo 65"
+    },
+    {
+      "id": "trip066",
+      "photo": "KakaoTalk_20260503_223924648.jpg",
+      "caption": "Trip photo 66"
+    },
+    {
+      "id": "trip067",
+      "photo": "KakaoTalk_20260503_223924648_01.jpg",
+      "caption": "Trip photo 67"
+    },
+    {
+      "id": "trip068",
+      "photo": "KakaoTalk_20260503_223924648_02.jpg",
+      "caption": "Trip photo 68"
+    },
+    {
+      "id": "trip069",
+      "photo": "KakaoTalk_20260503_223924648_03.jpg",
+      "caption": "Trip photo 69"
+    },
+    {
+      "id": "trip070",
+      "photo": "KakaoTalk_20260503_223924648_04.jpg",
+      "caption": "Trip photo 70"
+    },
+    {
+      "id": "trip071",
+      "photo": "KakaoTalk_20260503_223924648_05.jpg",
+      "caption": "Trip photo 71"
+    },
+    {
+      "id": "trip072",
+      "photo": "KakaoTalk_20260503_223924648_06.jpg",
+      "caption": "Trip photo 72"
+    },
+    {
+      "id": "trip073",
+      "photo": "KakaoTalk_20260503_223924648_07.jpg",
+      "caption": "Trip photo 73"
+    },
+    {
+      "id": "trip074",
+      "photo": "KakaoTalk_20260503_223924648_08.jpg",
+      "caption": "Trip photo 74"
+    },
+    {
+      "id": "trip075",
+      "photo": "KakaoTalk_20260503_223924648_09.jpg",
+      "caption": "Trip photo 75"
+    },
+    {
+      "id": "trip076",
+      "photo": "KakaoTalk_20260503_223924648_10.jpg",
+      "caption": "Trip photo 76"
+    },
+    {
+      "id": "trip077",
+      "photo": "KakaoTalk_20260503_223924648_11.jpg",
+      "caption": "Trip photo 77"
+    },
+    {
+      "id": "trip078",
+      "photo": "KakaoTalk_20260503_223924648_12.jpg",
+      "caption": "Trip photo 78"
+    },
+    {
+      "id": "trip079",
+      "photo": "KakaoTalk_20260503_223924648_13.jpg",
+      "caption": "Trip photo 79"
+    },
+    {
+      "id": "trip080",
+      "photo": "KakaoTalk_20260503_223924648_14.jpg",
+      "caption": "Trip photo 80"
+    },
+    {
+      "id": "trip081",
+      "photo": "KakaoTalk_20260503_223924648_15.jpg",
+      "caption": "Trip photo 81"
+    },
+    {
+      "id": "trip082",
+      "photo": "KakaoTalk_20260503_223924648_16.jpg",
+      "caption": "Trip photo 82"
+    },
+    {
+      "id": "trip083",
+      "photo": "KakaoTalk_20260503_223924648_17.jpg",
+      "caption": "Trip photo 83"
+    },
+    {
+      "id": "trip084",
+      "photo": "KakaoTalk_20260503_223924648_18.jpg",
+      "caption": "Trip photo 84"
+    },
+    {
+      "id": "trip085",
+      "photo": "KakaoTalk_20260503_223924648_19.jpg",
+      "caption": "Trip photo 85"
+    },
+    {
+      "id": "trip086",
+      "photo": "KakaoTalk_20260503_223924648_20.jpg",
+      "caption": "Trip photo 86"
+    },
+    {
+      "id": "trip087",
+      "photo": "KakaoTalk_20260503_223924648_21.jpg",
+      "caption": "Trip photo 87"
+    },
+    {
+      "id": "trip088",
+      "photo": "KakaoTalk_20260503_223924648_22.jpg",
+      "caption": "Trip photo 88"
+    },
+    {
+      "id": "trip089",
+      "photo": "KakaoTalk_20260503_223924648_23.jpg",
+      "caption": "Trip photo 89"
+    },
+    {
+      "id": "trip090",
+      "photo": "KakaoTalk_20260503_223924648_24.jpg",
+      "caption": "Trip photo 90"
+    },
+    {
+      "id": "trip091",
+      "photo": "KakaoTalk_20260503_223924648_25.jpg",
+      "caption": "Trip photo 91"
+    },
+    {
+      "id": "trip092",
+      "photo": "KakaoTalk_20260503_223924648_26.jpg",
+      "caption": "Trip photo 92"
+    },
+    {
+      "id": "trip093",
+      "photo": "KakaoTalk_20260503_223924648_27.jpg",
+      "caption": "Trip photo 93"
+    },
+    {
+      "id": "trip094",
+      "photo": "KakaoTalk_20260503_223924648_28.jpg",
+      "caption": "Trip photo 94"
+    },
+    {
+      "id": "trip095",
+      "photo": "KakaoTalk_20260503_223924648_29.jpg",
+      "caption": "Trip photo 95"
+    },
+    {
+      "id": "trip096",
+      "photo": "KakaoTalk_20260503_223943665.jpg",
+      "caption": "Trip photo 96"
+    },
+    {
+      "id": "trip097",
+      "photo": "KakaoTalk_20260503_223943665_01.jpg",
+      "caption": "Trip photo 97"
+    },
+    {
+      "id": "trip098",
+      "photo": "KakaoTalk_20260503_223943665_02.jpg",
+      "caption": "Trip photo 98"
+    },
+    {
+      "id": "trip099",
+      "photo": "KakaoTalk_20260503_223943665_03.jpg",
+      "caption": "Trip photo 99"
+    },
+    {
+      "id": "trip100",
+      "photo": "KakaoTalk_20260503_223943665_04.jpg",
+      "caption": "Trip photo 100"
+    },
+    {
+      "id": "trip101",
+      "photo": "KakaoTalk_20260503_223943665_05.jpg",
+      "caption": "Trip photo 101"
+    },
+    {
+      "id": "trip102",
+      "photo": "KakaoTalk_20260503_230837944.jpg",
+      "caption": "Trip photo 102"
+    },
+    {
+      "id": "trip103",
+      "photo": "KakaoTalk_20260503_230837944_01.jpg",
+      "caption": "Trip photo 103"
+    },
+    {
+      "id": "trip104",
+      "photo": "KakaoTalk_20260503_230837944_02.jpg",
+      "caption": "Trip photo 104"
+    },
+    {
+      "id": "trip105",
+      "photo": "KakaoTalk_20260503_230837944_03.jpg",
+      "caption": "Trip photo 105"
+    },
+    {
+      "id": "trip106",
+      "photo": "KakaoTalk_20260503_230837944_04.jpg",
+      "caption": "Trip photo 106"
+    },
+    {
+      "id": "trip107",
+      "photo": "KakaoTalk_20260503_230837944_05.jpg",
+      "caption": "Trip photo 107"
+    },
+    {
+      "id": "trip108",
+      "photo": "KakaoTalk_20260503_230837944_06.jpg",
+      "caption": "Trip photo 108"
+    }
+  ]
+}
+

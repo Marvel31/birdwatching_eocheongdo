@@ -1,0 +1,13 @@
+Starting project at C:\repository\BirdWatching
+Starting Metro Bundler
+
+Waiting on http://localhost:8081
+Logs for your project will appear below.
+Web node_modules\expo\AppEntry.js ░░░░░░░░░░░░░░░░  0.0% (0/1)
+Web node_modules\expo\AppEntry.js ▓░░░░░░░░░░░░░░░  8.0% ( 65/230)
+Web node_modules\expo\AppEntry.js ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░ 95.5% (342/350)
+Web Bundled 8282ms node_modules\expo\AppEntry.js (350 modules)
+ LOG  [web] Logs will appear in the browser console
+Web node_modules\expo\AppEntry.js ░░░░░░░░░░░░░░░░  0.0% (0/1)
+Web Bundled 28ms node_modules\expo\AppEntry.js (1 module)
+ LOG  [web] Logs will appear in the browser console
