@@ -8,8 +8,16 @@
     "assetBundlePatterns": [
       "assets/**/*"
     ],
+    "android": {
+      "package": "com.birdwatching.album"
+    },
     "web": {
       "bundler": "metro"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "1c240149-f550-4c50-b2e3-b275ab106e13"
+      }
     }
   }
 }
