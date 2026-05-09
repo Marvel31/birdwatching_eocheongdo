@@ -53,6 +53,7 @@ export const photos = {
   "053_soe_sol_ttaksae.jpg": require("../assets/photos/birds/053_soe_sol_ttaksae.jpg"),
   "054_soe_yurisae.jpg": require("../assets/photos/birds/054_soe_yurisae.jpg"),
   "055_supsae.jpg": require("../assets/photos/birds/055_supsae.jpg"),
+  "056_wangsaemae.jpg": require("../assets/photos/birds/056_wangsaemae.jpg"),
   "057_waegari.jpg": require("../assets/photos/birds/057_waegari.jpg"),
   "058_ulsae.jpg": require("../assets/photos/birds/058_ulsae.jpg"),
   "059_yuri_ttaksae.jpg": require("../assets/photos/birds/059_yuri_ttaksae.jpg"),

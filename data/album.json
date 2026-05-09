@@ -62,7 +62,7 @@
     { "id": "bird053", "name": "쇠솔딱새", "photos": ["053_soe_sol_ttaksae.jpg"] },
     { "id": "bird054", "name": "쇠유리새", "photos": ["054_soe_yurisae.jpg"] },
     { "id": "bird055", "name": "숲새", "photos": ["055_supsae.jpg"] },
-    { "id": "bird056", "name": "왕새매", "photos": [] },
+    { "id": "bird056", "name": "왕새매", "photos": ["056_wangsaemae.jpg"] },
     { "id": "bird057", "name": "왜가리", "photos": ["057_waegari.jpg"] },
     { "id": "bird058", "name": "울새", "photos": ["058_ulsae.jpg"] },
     { "id": "bird059", "name": "유리딱새", "photos": ["059_yuri_ttaksae.jpg","059_yuri_ttaksae1.jpg"] },
