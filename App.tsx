@@ -1,12 +1,14 @@
-import { StatusBar } from "expo-status-bar";
+import { StatusBar as ExpoStatusBar } from "expo-status-bar";
 import { useEffect, useMemo, useRef, useState } from "react";
 import {
   FlatList,
   Image,
   Modal,
+  Platform,
   Pressable,
   SafeAreaView,
   ScrollView,
+  StatusBar as NativeStatusBar,
   StyleProp,
   StyleSheet,
   Text,
@@ -22,6 +24,7 @@ type BirdView = "names" | "thumbs";
 
 const APP_TITLE = "어청도 탐조 여행";
 const APP_SUBTITLE = "어청도 bird album";
+const ANDROID_STATUS_BAR_HEIGHT = Platform.OS === "android" ? NativeStatusBar.currentHeight ?? 0 : 0;
 
 type ViewerPhoto = {
   key: PhotoKey;
@@ -129,7 +132,7 @@ export default function App() {
 
   return (
     <SafeAreaView style={styles.safeArea}>
-      <StatusBar style="dark" />
+      <ExpoStatusBar style="dark" />
       <View style={styles.app}>
         <View style={styles.header}>
           <View style={styles.headerText}>
@@ -152,7 +155,7 @@ export default function App() {
           ) : null}
         </View>
 
-        {tab === "home" ? <HomeScreen onOpenPhoto={setSelectedPhoto} /> : null}
+        {tab === "home" ? <HomeScreen /> : null}
         {tab === "birds" ? (
           <BirdsScreen
             birdPhotoItems={birdPhotoItems}
@@ -172,16 +175,10 @@ export default function App() {
   );
 }
 
-function HomeScreen({ onOpenPhoto }: { onOpenPhoto: (photo: SelectedPhoto) => void }) {
-  const coverPhoto: ViewerPhoto = {
-    key: album.trip.coverPhoto as PhotoKey,
-    title: APP_TITLE,
-    subtitle: album.trip.location
-  };
-
+function HomeScreen() {
   return (
     <ScrollView contentContainerStyle={styles.scrollContent}>
-      <Pressable style={styles.albumCover} onPress={() => onOpenPhoto(getSelectedPhoto([coverPhoto], 0))}>
+      <View style={styles.albumCover}>
         <Image source={getRequiredPhoto(album.trip.coverPhoto)} style={styles.albumCoverImage} resizeMode="cover" />
         <View style={styles.albumShade} />
         <View style={styles.albumLabel}>
@@ -189,7 +186,7 @@ function HomeScreen({ onOpenPhoto }: { onOpenPhoto: (photo: SelectedPhoto) => vo
           <Text style={styles.albumTitle}>{APP_TITLE}</Text>
           <Text style={styles.albumMeta}>{album.trip.date}</Text>
         </View>
-      </Pressable>
+      </View>
 
       <View style={styles.albumDetails}>
         <View style={styles.albumStat}>
@@ -494,6 +491,9 @@ function PhotoModal({
             onResponderRelease={handleTouchEnd}
             onResponderTerminate={handleTouchEnd}
             onStartShouldSetResponder={() => true}
+            onStartShouldSetResponderCapture={() => true}
+            onMoveShouldSetResponder={() => true}
+            onMoveShouldSetResponderCapture={() => true}
           >
             <Image
               source={getRequiredPhoto(current.key)}
@@ -600,7 +600,8 @@ function ListIcon({ active }: { active: boolean }) {
 const styles = StyleSheet.create({
   safeArea: {
     flex: 1,
-    backgroundColor: "#f7f5ef"
+    backgroundColor: "#f7f5ef",
+    paddingTop: ANDROID_STATUS_BAR_HEIGHT
   },
   app: {
     flex: 1,
